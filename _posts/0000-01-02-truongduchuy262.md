@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Author: Duc Huy
 Use the left arrow to go back!
